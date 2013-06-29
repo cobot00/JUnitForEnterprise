@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<EnviromentInfo>
+  <jdbcurl>jdbc:mysql://192.168.2.100/user</jdbcurl>
+  <db-username>root</db-username>
+  <db-password>qg15de</db-password>
+  <db-type>mysql</db-type>
+  <csv-root-dir>D:\coding\NetBeansProjects\JUnitLibrary\csv\</csv-root-dir>
+</EnviromentInfo>
