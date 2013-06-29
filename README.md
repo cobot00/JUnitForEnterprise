@@ -1,4 +1,4 @@
 junit
 =====
 
-JUnit utilities for enterprise
+JUnit utilities for enterprise Java developer.
