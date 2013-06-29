@@ -11,7 +11,7 @@ import junit.testsuite.*;
  * なお、CSVファイルにはヘッダー行が含まれており、それを読み飛ばすという前提の仕様になっています。<br>
  * レコードキーが2つ存在するモデルの場合はAbstractConfigWithSubListBuilderを利用してください。
  * 
- * @author cobot_1
+ * @author cobot00
  * 
  * @param <E>
  *            生成するオブジェクトのクラス

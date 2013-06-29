@@ -11,7 +11,7 @@ import junit.testsuite.*;
  * header-detailの2層構造のモデルを対象としています。<br>
  * ※CSVファイルがソートされている必要があります。
  * 
- * @author cobot_1
+ * @author cobot00
  * 
  * @param <T>
  *            生成するheaderオブジェクトのクラス

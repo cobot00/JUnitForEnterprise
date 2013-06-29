@@ -11,7 +11,7 @@ import org.xml.sax.*;
 /**
  * xmlファイルを読み込み、Map形式に変換して返します。<br>
  * 
- * @author cobot_1
+ * @author cobot00
  * 
  */
 public class XMLReader {

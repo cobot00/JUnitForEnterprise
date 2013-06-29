@@ -7,7 +7,7 @@ import java.util.*;
  * テスト用の設定をCSVファイルからロードする場合に使用してください。<br>
  * CSVファイルの列数、CSVファイルのフルパスを指定する必要があります。
  * 
- * @author cobot_1
+ * @author cobot00
  */
 public class CSVLoader {
 

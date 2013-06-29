@@ -10,7 +10,7 @@ import org.junit.*;
 /**
  * ForcedValueSetterのテストクラス。
  * 
- * @author cobot_1
+ * @author cobot00
  * 
  */
 public class ForcedValueSetterTest {

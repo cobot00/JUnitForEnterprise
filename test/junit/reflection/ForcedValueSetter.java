@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * privateなフィールドに強制的に値、オブジェクトを変更する際に使用してください。
  * 
- * @author cobot_1
+ * @author cobot00
  */
 
 public class ForcedValueSetter {

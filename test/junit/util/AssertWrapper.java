@@ -5,9 +5,10 @@ import static org.junit.Assert.*;
 
 /**
  * JUnit4からのassertThatアサーションを使いやすくするためのラッパー処理群。<br>
- * 今後シグネチャが改善される可能性を考慮してメソッド名は別名にしています。 
+ * isのためのimportが面倒、Boxingは避けたいという御仁向け。<br>
+ * assertThatのシグネチャが改善される可能性を考慮してメソッド名は別名にしています。 
  * 
- * @author cobot_1
+ * @author cobot00
  */
 public final class AssertWrapper {
 

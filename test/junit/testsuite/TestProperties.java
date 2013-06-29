@@ -8,7 +8,7 @@ import junit.io.XMLReader;
  * DB接続設定や設定ファイルなど環境依存情報を保持するクラスになります。<br>
  * プロジェクト直下にconfig.xmlファイルを配備してください。
  * 
- * @author cobot_1
+ * @author cobot00
  */
 public class TestProperties {
     
