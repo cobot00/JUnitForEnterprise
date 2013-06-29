@@ -1,4 +1,4 @@
-junit
-=====
+JUnitForEnterprise
+==================
 
-JUnit utilities for enterprise Java developer.
+JUnit utilities for enterprise
